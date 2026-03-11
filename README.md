@@ -2,6 +2,8 @@
 
 Open source workflow and template pack for building, auditing, and repairing technical SEO on static websites.
 
+Created by Breno Henrique Contente.
+
 It is designed for developers working with:
 
 - plain HTML/CSS/JS sites
