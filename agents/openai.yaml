@@ -1,0 +1,4 @@
+interface:
+  display_name: "Static SEO Toolkit"
+  short_description: "Build and repair SEO for static sites"
+  default_prompt: "Use $static-seo-toolkit to improve the technical SEO of this static site."

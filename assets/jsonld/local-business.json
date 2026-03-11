@@ -1,0 +1,19 @@
+{
+  "@context": "https://schema.org",
+  "@type": "LocalBusiness",
+  "name": "{{BUSINESS_NAME}}",
+  "url": "{{PAGE_URL}}",
+  "image": "{{IMAGE_URL}}",
+  "telephone": "{{PHONE}}",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "{{STREET_ADDRESS}}",
+    "addressLocality": "{{CITY}}",
+    "addressRegion": "{{STATE}}",
+    "addressCountry": "{{COUNTRY_CODE}}"
+  },
+  "areaServed": "{{SERVICE_AREA}}",
+  "sameAs": [
+    "{{SOCIAL_URL_1}}"
+  ]
+}

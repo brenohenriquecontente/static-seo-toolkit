@@ -1,0 +1,11 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Organization",
+  "name": "{{BUSINESS_NAME}}",
+  "url": "{{PAGE_URL}}",
+  "description": "{{BUSINESS_DESCRIPTION}}",
+  "logo": "{{LOGO_URL}}",
+  "sameAs": [
+    "{{SOCIAL_URL_1}}"
+  ]
+}
